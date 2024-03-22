@@ -1,3 +1,7 @@
 def earth():
     x = "Bangladesh"
-    y = "Barbados"
+    y = "Barbados" 
+    print(x==y) 
+    True
+    print(y==x)
+    False
