@@ -1,5 +1,5 @@
 def ada():
-    first_name = "    AdA"
+    first_name = "AdA"
     last_name = "LoVeLAce"
     full_name = "    AdA LoVeLace"
     print(full_name.lower())
